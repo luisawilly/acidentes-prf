@@ -2,6 +2,8 @@
 
 Análise de dados de acidentes em rodovias federais brasileiras usando dados oficiais da Polícia Rodoviária Federal.
 
+![Visão Geral](prints/print1-2.png)
+
 ## Sobre o Projeto
 
 Dashboard e análise exploratória para identificar padrões de acidentes rodoviários no primeiro semestre de 2025.
@@ -60,4 +62,5 @@ Este repositório contém uma **amostra de 1000 registros**. A análise completa
 
 - Email: dados.awilly@gmail.com
 - LinkedIn: [luis-awilly](https://www.linkedin.com/in/luis-awilly/)
+
 - GitHub: [luisawilly](https://github.com/luisawilly)
